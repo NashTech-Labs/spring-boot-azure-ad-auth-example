@@ -29,4 +29,4 @@ The application will start on port 9191. You can access the login page by naviga
 
 ## References
 
-For more information on how to configure Spring Boot with Azure Active Directory, refer to the [official documentation](https://blog.nashtechglobal.com/secure-your-spring-boot-application-with-azure-active-directory-a-comprehensive-guide/).
+For more information on how to configure Spring Boot with Azure Active Directory, refer to my [blog](https://blog.nashtechglobal.com/secure-your-spring-boot-application-with-azure-active-directory-a-comprehensive-guide/).
